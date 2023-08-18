@@ -1,0 +1,29 @@
+.footer{
+    background: rgb(50,50,50);
+    height: 6rem;
+    width: 100vw;
+    padding: 0.5rem 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: small;
+    font-weight: 300;
+}
+
+.end{
+    padding: 1rem 01rem;
+    font-size: medium;
+    color: goldenrod;
+    font-weight: 600;
+}
+
+@media screen and (max-width:407px) {
+
+    .footer{
+        font-size: smaller;
+    }
+    .end{
+        font-size: small;
+    }
+    
+}
