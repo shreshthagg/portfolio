@@ -33,6 +33,11 @@
 
 }
 
+.compName{
+    font-size: large;
+    font-weight: 400;
+}
+
 .contactForm{
     margin: 1rem auto;
     display: flex;

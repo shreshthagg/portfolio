@@ -31,7 +31,7 @@ const NavBar = () => {
         <div className= "navMenu" style={{display: showMenu? 'flex':'none'}}>
             <Link activeClass='active' to='intro' spy={true} smooth={true} offset={-100} duration={500} className="ListItem" onClick={()=>setShowMenu(false)}>Home </Link>
             <Link activeClass='active' to='skills' spy={true} smooth={true} offset={-25} duration={500} className="ListItem" onClick={()=>setShowMenu(false)}>About </Link>
-            <Link activeClass='active' to='project' spy={true} smooth={true} offset={45} duration={500} className="ListItem" onClick={()=>setShowMenu(false)}>Projects </Link>
+            <Link activeClass='active' to='project' spy={true} smooth={true} offset={-25} duration={500} className="ListItem" onClick={()=>setShowMenu(false)}>Projects </Link>
             <Link activeClass='active' to='workPage' spy={true} smooth={true} offset={-25} duration={500} className="ListItem" onClick={()=>setShowMenu(false)}>Work Experience</Link>
             <Link activeClass='active' to='workPage' spy={true} smooth={true} offset={1000} duration={500} className="ListItem" onClick={()=>setShowMenu(false)}>Contact Me</Link>
         </div>

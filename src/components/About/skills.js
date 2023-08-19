@@ -22,23 +22,26 @@ const skills = () => {
                 <img src={WebDev} alt="WebDev" className='skillBarImg'/>
                 <div className='skillBarText'>
                     <h2>Programming Languages</h2>
-                    <p>Python, Racket, C, JavaScript, CSS, HTML, and R</p>
+                    <p>Python, Racket, C, JavaScript, CSS, HTML, SQL and R</p>
                 </div>
             </div>
 
             <div className='skillBar'>
-                <img src={DataAnal} alt="DataAnal" className='skillBarImg'/>
+                <img src={Itm} alt="DataAnal" className='skillBarImg'/>
                 <div className='skillBarText'>
-                    <h2>Data analysis</h2>
-                    <p>dnsns</p>
+                    <h2>Technologies</h2>
+                    <p>MS Office, Adobe Creative Suite, Linux, ReactJs, API's, VSCode, Jupyter Notebook,
+                       Command Shell, Data Structures and Algorithms, Git, Pandas, NumPy, Matplotlib, Seaborn, 
+                       UI/UX design, Operating Systems, Arduino Boards, Rest API</p>
                 </div>
             </div>
 
             <div className='skillBar'>
-                <img src={Itm} alt="Itm" className='skillBarImg'/>
+                <img src={DataAnal} alt="Itm" className='skillBarImg'/>
                 <div className='skillBarText'>
-                    <h2>IT Management</h2>
-                    <p>jsjfgxn</p>
+                    <h2>Other Relevant Skills</h2>
+                    <p>Collaborative teamwork, Problem Solving, Critical Thinking, Communication, Agile/Scrum Methodologies,
+                       Data Analysis/Visualization, Debugging and Troubleshooting, IoT </p>
                 </div>
             </div>
          

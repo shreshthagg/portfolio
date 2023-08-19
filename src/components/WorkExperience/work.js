@@ -36,24 +36,35 @@ const work = () => {
             <div className='skillBar'>
                 <img src={Image} alt="" className='skillBarImg'/>
                 <div className='skillBarText'>
-                    <h2>Programming Languages</h2>
-                    <p>Python, Racket, C, JavaScript, CSS, HTML, and R</p>
+                    <h2>Waterloo Experience (WE) Accelerate Program</h2>
+                    <span className='compName'>Manulife</span>
+                    <p>Participated in the 'Modern Web Applications Design' stream with Manulife for the WE accelerate program.<br/>
+ Built a web application for a local restaurant using ReactJS, CSS and JS to increase their online presence and for better marketing.<br/>
+Worked with 'Cyberworks Robotics' on a Telepresence Remote Control System Support Project to customize their AWS cloud-based fleet management system for a fleet of autonomous vehicles operating at a US airport.<br/>
+Programmed Fleet Task Report Pages for the system and collected/displayed data from over 6 autonomous devices.<br/>
+Linked the front-end and the back-end for the system and added functionalities to analyze the data generated and to download the report as a PDF file.</p>
                 </div>
             </div>
 
             <div className='skillBar'>
                 <img src={Image} alt="" className='skillBarImg'/>
                 <div className='skillBarText'>
-                    <h2>Data analysis</h2>
-                    <p>dnsns</p>
+                    <h2>Python Intern</h2>
+                    <span className='compName'>OnGraph Technologies</span>
+                    <p>Interned with the python development teach to gain relevant experience and insights into the industry.<br/>
+Worked with python development libraries such as Django, Pandas, Matplotlib and Numpy.<br/>
+Worked on a clone for an E-Commerce site using JS and CSS and implemented price-tracking functionality.</p>
                 </div>
             </div>
 
             <div className='skillBar'>
                 <img src={Image} alt="" className='skillBarImg'/>
                 <div className='skillBarText'>
-                    <h2>IT Management</h2>
-                    <p>jsjfgxn</p>
+                    <h2>Student Leader</h2>
+                    <span className='compName'>City One Initiative</span>
+                    <p>Worked on various projects and organized numerous workshops to help develop soft-skills in the youth.<br/>
+Handled social media handles such as Facebook, Twitter and LinkedIn to facilitate better reach and worked on organic marketing.<br/>
+Headed the social media team for the City Mun'21.</p>
                 </div>
             </div>
          

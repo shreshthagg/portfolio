@@ -16,23 +16,23 @@ const project = () => {
 
         <div className='projectImgs'>
 
-        <a href="https://www.google.com/">
+        <a href="https://github.com/shreshthagg/Restaurant">
             <img src={Project1} alt="" className='projectImg' /></a>
 
-            <a href="https://www.google.com/">
+            <a href="https://github.com/shreshthagg/Diwali-Sales">
             <img src={Project2} alt="" className='projectImg' /></a>
 
-            <a href="https://www.google.com/">
+            <a href="https://github.com/shreshthagg/portfolio">
             <img src={Project3} alt="" className='projectImg' /></a>
 
-            <a href="https://www.google.com/">
+            <a href="https://github.com/shreshthagg/Fleet-Management-System">
             <img src={Project4} alt="" className='projectImg' /></a>
 
-            <a href="https://www.google.com/">
+            {/* <a href="https://www.google.com/">
             <img src={Project5} alt="" className='projectImg' /></a>
 
             <a href="https://www.google.com/">
-            <img src={Project6} alt="" className='projectImg' /></a>
+            <img src={Project6} alt="" className='projectImg' /></a> */}
 
 
         </div>
