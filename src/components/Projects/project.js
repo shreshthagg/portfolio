@@ -4,8 +4,8 @@ import Project1 from '../../assets/Restaurant.jpeg'
 import Project2 from '../../assets/DAP.jpeg'
 import Project3 from '../../assets/portfolio-3.png'
 import Project4 from '../../assets/Top Features of Fleet Management Software.jpg'
-import Project5 from '../../assets/portfolio-5.png'
-import Project6 from '../../assets/portfolio-6.png'
+// import Project5 from '../../assets/portfolio-5.png'
+// import Project6 from '../../assets/portfolio-6.png'
 
 const project = () => {
   return (

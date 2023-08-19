@@ -1,7 +1,7 @@
 import React from 'react'
 import './home.css';
 import bg from '../../assets/bg1.png'
-import {Link} from 'react-scroll';
+// import {Link} from 'react-scroll';
 import resume from '../../assets/Shreshth Aggarwal Resume.pdf';
 import resumeImg from '../../assets/resumebtn.jpg'
 

@@ -2,7 +2,7 @@ import React, { useRef } from 'react'
 import emailjs from '@emailjs/browser';
 import './work.css';
 import '../About/skills.css';
-import Image from'../../assets/portfolio-1.png';
+// import Image from'../../assets/portfolio-1.png';
 import linkedin from '../../assets/linkedin.png';
 import github from '../../assets/github.jpeg'
 import manuLife from '../../assets/Manulife-Logo.wine.png'
