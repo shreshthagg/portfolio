@@ -40,6 +40,8 @@
     height: 18rem;
     margin: 0.5rem;
     cursor: pointer;
+    max-width: 20vw;
+    border-radius: 1rem;
 }
 
 .projectImg:hover{
@@ -47,8 +49,9 @@
     border-bottom: 5px solid goldenrod;
 }
 
-@media screen and (max-width: 521px) {
+@media screen and (max-width: 901px) {
     .projectImg{
         height: 40vw;
+        max-width: 40vw;
     }
 }

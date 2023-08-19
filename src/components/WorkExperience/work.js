@@ -5,6 +5,9 @@ import '../About/skills.css';
 import Image from'../../assets/portfolio-1.png';
 import linkedin from '../../assets/linkedin.png';
 import github from '../../assets/github.jpeg'
+import manuLife from '../../assets/Manulife-Logo.wine.png'
+import onGraph from '../../assets/onGraph.jpeg'
+import cityOne from '../../assets/cityOneInitiative.png'
 
 
 const work = () => {
@@ -28,13 +31,13 @@ const work = () => {
         </div>
         <h1 className='workPageTitle'>Work Experience </h1>
         <p className='workPageDesc'>
-             fdjkbsuovhfidnv
+             My previous work experience working as a co-op/interning with various companies.
         </p>
 
         <div className='skillBars'>
 
             <div className='skillBar'>
-                <img src={Image} alt="" className='skillBarImg'/>
+                <img src={manuLife} alt="" className='skillBarImg'/>
                 <div className='skillBarText'>
                     <h2>Waterloo Experience (WE) Accelerate Program</h2>
                     <span className='compName'>Manulife</span>
@@ -47,7 +50,7 @@ Linked the front-end and the back-end for the system and added functionalities t
             </div>
 
             <div className='skillBar'>
-                <img src={Image} alt="" className='skillBarImg'/>
+                <img src={onGraph} alt="" className='skillBarImg'/>
                 <div className='skillBarText'>
                     <h2>Python Intern</h2>
                     <span className='compName'>OnGraph Technologies</span>
@@ -58,7 +61,7 @@ Worked on a clone for an E-Commerce site using JS and CSS and implemented price-
             </div>
 
             <div className='skillBar'>
-                <img src={Image} alt="" className='skillBarImg'/>
+                <img src={cityOne} alt="" className='skillBarImg'/>
                 <div className='skillBarText'>
                     <h2>Student Leader</h2>
                     <span className='compName'>City One Initiative</span>

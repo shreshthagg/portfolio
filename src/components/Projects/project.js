@@ -1,9 +1,9 @@
 import React from 'react'
 import './project.css';
-import Project1 from '../../assets/portfolio-1.png'
-import Project2 from '../../assets/portfolio-2.png'
+import Project1 from '../../assets/Restaurant.jpeg'
+import Project2 from '../../assets/DAP.jpeg'
 import Project3 from '../../assets/portfolio-3.png'
-import Project4 from '../../assets/portfolio-4.png'
+import Project4 from '../../assets/Top Features of Fleet Management Software.jpg'
 import Project5 from '../../assets/portfolio-5.png'
 import Project6 from '../../assets/portfolio-6.png'
 
@@ -12,7 +12,7 @@ const project = () => {
     <div>
       <section id='project'>
         <span className='projectTitle'> My Projects</span> <br/>
-        <span className='projectDesc'>jrtkdcfmgfm</span>
+        <span className='projectDesc'>Here are some of the projects I have worked on. Click on the images to know more.</span>
 
         <div className='projectImgs'>
 
