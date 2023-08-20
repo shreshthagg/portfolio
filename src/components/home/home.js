@@ -17,7 +17,7 @@ const intro = () => {
         download="Shreshth Aggarwal Resume"
         target='_blank'
         rel='noopener noreferrer'>
-        <button className='btn'><img src={resumeImg} alt="resumeImg" className='btnImg' />My Resume</button>  </a>
+        <button className='btn'><img src={resumeImg} alt="resumeImg" className='btnImg' />Resume</button>  </a>
 
         </div>
 
