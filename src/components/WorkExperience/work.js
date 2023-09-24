@@ -55,8 +55,8 @@ const work = () => {
                     <h2>Python Intern</h2>
                     <span className='compName'>OnGraph Technologies</span>
                     <p>&#x2022; Interned with the python development teach to gain relevant experience and insights into the industry.<br/>
-                    &#x2022; Worked with python development libraries such as Django, Pandas, Matplotlib and Numpy.<br/>
-                    &#x2022; Worked on a clone for an E-Commerce site using JS and CSS and implemented price-tracking functionality.</p>
+                    &#x2022; Gained experience with python development libraries such as Django, Pandas, Matplotlib and Numpy.<br/>
+                    &#x2022; Programmed a clone for an E-Commerce site using JS and CSS and implemented price-tracking functionality.</p>
                 </div>
             </div>
 
